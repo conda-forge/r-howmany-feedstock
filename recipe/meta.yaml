@@ -16,7 +16,6 @@ build:
   noarch: generic
   merge_build_host: True  # [win]
   number: 1002
-  noarch: generic
   rpaths:
     - lib/R/lib/
     - lib/
@@ -36,7 +35,7 @@ test:
 
 about:
   home: http://www.stats.ox.ac.uk/~meinshau/
-  license: GPL
+  license: GPL-2.0-or-later
   summary: When testing multiple hypotheses simultaneously, this package provides functionality
     to calculate a lower bound for the number of correct rejections (as a function of
     the number of rejected hypotheses), which holds simultaneously -with high probability-
