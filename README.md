@@ -3,7 +3,7 @@ About r-howmany
 
 Home: http://www.stats.ox.ac.uk/~meinshau/
 
-Package license: GPL
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-howmany-feedstock/blob/master/LICENSE.txt)
 
