@@ -1,11 +1,11 @@
-About r-howmany
-===============
+About r-howmany-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-howmany-feedstock/blob/main/LICENSE.txt)
 
 Home: http://www.stats.ox.ac.uk/~meinshau/
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-howmany-feedstock/blob/main/LICENSE.txt)
 
 Summary: When testing multiple hypotheses simultaneously, this package provides functionality to calculate a lower bound for the number of correct rejections (as a function of the number of rejected hypotheses), which holds simultaneously -with high probability- for all possible number of rejections.  As a special case, a lower bound for the total number of false null hypotheses can be inferred.  Dependent test statistics can be handled for multiple tests of associations. For independent test statistics, it is sufficient to provide a list of p-values.
 
